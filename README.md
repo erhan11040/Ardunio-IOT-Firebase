@@ -1,2 +1,2 @@
 # Ardunio-IOT-Firebase
-An IoT project's android part with firebase entegration
+An IoT project's Ardunio part with firebase entegration (esp8266 used for wifi)
